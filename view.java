@@ -17,8 +17,7 @@ class View {
 
 	public void anyItemsToAddInquiry(){
 	System.out.println();
-	System.out.println( "Do you have an item to add to the shopping basket? Please respond with a 'Yes' OR 'No'");
-	// REFACTORED SOLUTION: TO MAINTAIN CONSISTENCY, I WOULD HAVE CHANGED TO: SUBMIT '1' FOR YES OR '2' FOR NO
+	System.out.println( "Do you have an item to add to the shopping basket? Submit '1' for Yes or '2' for No.");
 	System.out.println();
 	}
 

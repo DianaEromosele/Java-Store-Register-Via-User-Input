@@ -1,4 +1,4 @@
-Java Cash Register App:
+A Java Cash-Register App:
 
 This is a basic command-line app that takes in details about store goods and their prices, and spits out a final grocery receipt, including sales tax. 
 
